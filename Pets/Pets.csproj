@@ -35,5 +35,11 @@
     <Compile Include="Pets.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Task\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Task\02. Pets_Условие %28PDF%29.pdf" />
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
