@@ -1,0 +1,47 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fishland", "Fishland\Fishland.csproj", "{F79FDF4B-992B-4BC0-AA45-FD26E5FF4B7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pets", "Pets\Pets.csproj", "{57821F4A-6C6A-40C6-9AE7-B24AE89850CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vacation", "Vacation\Vacation.csproj", "{29488743-873F-4AA8-94A1-2F6DB93C7BB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniCamp", "SoftUniCamp\SoftUniCamp.csproj", "{1F01CD81-7EE0-4DC0-8257-7C3E30DF664E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fox", "Fox\Fox.csproj", "{C49CE58B-CD9A-4514-9F12-1B338CCE9632}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battles", "Battles\Battles.csproj", "{5B4CB2F9-871C-454E-BA5F-96ED8C7074A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F79FDF4B-992B-4BC0-AA45-FD26E5FF4B7B}.Debug|x86.ActiveCfg = Debug|x86
+		{F79FDF4B-992B-4BC0-AA45-FD26E5FF4B7B}.Debug|x86.Build.0 = Debug|x86
+		{F79FDF4B-992B-4BC0-AA45-FD26E5FF4B7B}.Release|x86.ActiveCfg = Release|x86
+		{F79FDF4B-992B-4BC0-AA45-FD26E5FF4B7B}.Release|x86.Build.0 = Release|x86
+		{57821F4A-6C6A-40C6-9AE7-B24AE89850CD}.Debug|x86.ActiveCfg = Debug|x86
+		{57821F4A-6C6A-40C6-9AE7-B24AE89850CD}.Debug|x86.Build.0 = Debug|x86
+		{57821F4A-6C6A-40C6-9AE7-B24AE89850CD}.Release|x86.ActiveCfg = Release|x86
+		{57821F4A-6C6A-40C6-9AE7-B24AE89850CD}.Release|x86.Build.0 = Release|x86
+		{29488743-873F-4AA8-94A1-2F6DB93C7BB8}.Debug|x86.ActiveCfg = Debug|x86
+		{29488743-873F-4AA8-94A1-2F6DB93C7BB8}.Debug|x86.Build.0 = Debug|x86
+		{29488743-873F-4AA8-94A1-2F6DB93C7BB8}.Release|x86.ActiveCfg = Release|x86
+		{29488743-873F-4AA8-94A1-2F6DB93C7BB8}.Release|x86.Build.0 = Release|x86
+		{1F01CD81-7EE0-4DC0-8257-7C3E30DF664E}.Debug|x86.ActiveCfg = Debug|x86
+		{1F01CD81-7EE0-4DC0-8257-7C3E30DF664E}.Debug|x86.Build.0 = Debug|x86
+		{1F01CD81-7EE0-4DC0-8257-7C3E30DF664E}.Release|x86.ActiveCfg = Release|x86
+		{1F01CD81-7EE0-4DC0-8257-7C3E30DF664E}.Release|x86.Build.0 = Release|x86
+		{C49CE58B-CD9A-4514-9F12-1B338CCE9632}.Debug|x86.ActiveCfg = Debug|x86
+		{C49CE58B-CD9A-4514-9F12-1B338CCE9632}.Debug|x86.Build.0 = Debug|x86
+		{C49CE58B-CD9A-4514-9F12-1B338CCE9632}.Release|x86.ActiveCfg = Release|x86
+		{C49CE58B-CD9A-4514-9F12-1B338CCE9632}.Release|x86.Build.0 = Release|x86
+		{5B4CB2F9-871C-454E-BA5F-96ED8C7074A4}.Debug|x86.ActiveCfg = Debug|x86
+		{5B4CB2F9-871C-454E-BA5F-96ED8C7074A4}.Debug|x86.Build.0 = Debug|x86
+		{5B4CB2F9-871C-454E-BA5F-96ED8C7074A4}.Release|x86.ActiveCfg = Release|x86
+		{5B4CB2F9-871C-454E-BA5F-96ED8C7074A4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
